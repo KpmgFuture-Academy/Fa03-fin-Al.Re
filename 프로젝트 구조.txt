@@ -1,0 +1,35 @@
+market_service/
+├── main.py
+├── cart/
+│   ├── __init__.py
+│   ├── cart.py
+├── chatbot/
+│   ├── __init__.py
+│   ├── chatbot.py
+│   ├── chroma_db/
+│   │   └── chroma.sqlite3
+├── chroma_db/
+│   └── chroma.sqlite3
+├── data/
+│   ├── __init__.py
+│   ├── sql.py
+├── local_image/
+│   └── login_background.png
+├── log/
+│   ├── __init__.py
+│   ├── log.py
+├── login/
+│   ├── __init__.py
+│   ├── login.py
+├── market/
+│   ├── __init__.py
+│   ├── search.py
+├── preference/
+│   ├── __init__.py
+│   ├── preference.py
+└── vectordb/
+      ├── chroma_insert_log.txt
+      ├── chromaDB_create.py
+      ├── chromedriver.exe
+      └── chroma_db/
+
