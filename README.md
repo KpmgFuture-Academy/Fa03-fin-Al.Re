@@ -2,6 +2,8 @@
 - 삼정 KPMG Future Academy 3기 Al.Re 팀입니다.
 ---------------------------------------
 
+
+
 # 프로젝트 계획서
 
 ## 1. 프로젝트 개요
@@ -20,7 +22,26 @@
 |**Team Lead <br> CTO**|**Deputy Team Lead <br> UX Strategist**|**Data Engineer**|**Product Manager**|**Funnel Analyst**|
 
 
+
 ---------------------------------------
+## 설치 및 실행 방법
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/lytt6649/Fa03-fin-Al.Re.git
+cd market_service
+```
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run Frontend
+```bash
+streamlit run main.py
+```
+
 
 # 요구사항 정의서
 
