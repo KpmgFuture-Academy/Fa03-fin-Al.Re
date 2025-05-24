@@ -1,8 +1,6 @@
 # Fa03-fin-Al.Re
-- 삼정 KPMG Future Academy 3기 Al.Re 팀입니다.
+- 실생활 속 라이프스타일을 변화시키고자 모인 삼정 KPMG Future Academy 3기 Al.Re 팀입니다.
 ---------------------------------------
-
-
 
 # 프로젝트 계획서
 
@@ -21,27 +19,57 @@
 |:---:|:---:|:---:|:---:|:---:|
 |**Team Lead <br> CTO**|**Deputy Team Lead <br> UX Strategist**|**Data Engineer**|**Product Manager**|**Funnel Analyst**|
 
+---------------------------------------
 
+# 주요 서비스 기능
+
+## 1. LLM 및 행동 로그 기반, 레시피 & 재료 추천
+- 초기 선호도 조사를 통해 사용자 선호 파악
+- LLM 기반의 맥락 인지 추천 및 행동 로그 기반 개인화된 맞춤형 레시피·식재료 추천
+
+## 2. 장바구니에 담은 재료 기반, 레시피 & 재료 추천
+- 장바구니에 담긴 재료를 포함하고 있는 레시피 중 상위 3개를 소비자에게 추천
+- 레시피에 필요한 추가 재료를 일괄 또는 선택적으로 장바구니에 담을 수 있는 기능 제공
+
+## 3. 조리 후 남은 재료 기반, 레시피 & 재료 추천
+- 장바구니에 담긴 재료를 기반으로 레시피 조리 후 남는 재료에 대한 양을 계산
+- 해당 재료를 활용할 수 있는 레시피를 추가 추천하여 활용도를 극대화하고 반복적인 구매 유도
 
 ---------------------------------------
-## 설치 및 실행 방법
 
-### 1. Clone Repository
+# 설치 및 실행 방법
+
+## 1. Clone Repository
 ```bash
 git clone https://github.com/lytt6649/Fa03-fin-Al.Re.git
 cd market_service
 ```
 
-### 2. Install Dependencies
+## 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run Frontend
+## 3. Run Frontend
 ```bash
 streamlit run main.py
 ```
 
+---------------------------------------
+
+# 서비스 튜트리얼
+
+## 1. 사용자 최적화 및 레시피/재료 추천
+
+
+
+## 2. Al.Re 봇 서비스
+https://github.com/user-attachments/assets/896d2524-80a7-4bbc-a389-3b31f29cffa8
+
+
+## 3. 운영관리 서비스
+
+---------------------------------------
 
 # 요구사항 정의서
 
