@@ -22,7 +22,7 @@
 ---------------------------------------
 
 # 서비스 개요
-![PPT_7](https://github.com/user-attachments/assets/b1d02d41-0e70-4e03-9972-04c1a08ad3a5)
+![스크린샷(9)](https://github.com/user-attachments/assets/b518c9ff-4125-4cb8-9cd7-abd8d9c12580)
 
 ---------------------------------------
 
@@ -76,7 +76,7 @@ https://github.com/user-attachments/assets/2776ea7b-ed86-4099-b1f9-acc2da101a9b
 ---------------------------------------
 
 # 서비스 아키텍처
-![PPT_39](https://github.com/user-attachments/assets/1cc3fbf7-eeb4-4560-a522-e23978d75a2f)
+![스크린샷(10)](https://github.com/user-attachments/assets/8915d3b5-0cce-4e36-a4bf-187d11b09715)
 
 ----------------------------------------
 
@@ -118,7 +118,7 @@ https://github.com/user-attachments/assets/2776ea7b-ed86-4099-b1f9-acc2da101a9b
 -----------------------------------------
 
 # 데이터 정의서
-![PPT_40](https://github.com/user-attachments/assets/1001f4fd-718a-46a8-ba3f-3bb0a249633a)
+![스크린샷(11)](https://github.com/user-attachments/assets/25be33a9-7dfe-4a1c-b6a0-f244ec5f6fd5)
 
 ----------------------------------------
 
