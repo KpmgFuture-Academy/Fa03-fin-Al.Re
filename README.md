@@ -1,6 +1,6 @@
 # ✨ KPMG Future Academy Al.Re
-- 안녕하세요. 삼정 KPMG Future Academy 3기 Al.Re 팀입니다.
-- 저희 팀은 일상생활 속 라이프스타일을 변화시키고자 모였습니다.
+안녕하세요. 삼정 KPMG Future Academy 3기 Al.Re 팀입니다. <br>
+저희 팀은 일상생활 속 라이프스타일을 변화시키고자 모였습니다. <br>
 
 **"""** <br>
 한 끼를 해 먹기 위해서는 굉장히 복잡한 사고 과정이 따라옵니다.
