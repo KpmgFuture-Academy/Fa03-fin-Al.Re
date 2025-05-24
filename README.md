@@ -18,6 +18,7 @@
 ## 3. 팀 구성
 |<center><img src="https://github.com/user-attachments/assets/d0037366-b2a7-4196-952b-136b5c1e2d2a" width="150" height="150"></center>|<center><img src="https://github.com/user-attachments/assets/cacea362-156c-45ce-8ca0-837fdc5216f9" width="150" height="130"></center>|<center><img src="https://github.com/user-attachments/assets/f46e5657-661f-477e-969e-c4cf783bc9de" width="150" height="150"></center>|<center><img src="https://github.com/user-attachments/assets/a3ac0397-d03c-4eda-881a-fa8f212614dc" width="150" height="150"></center>|<center><img src="https://github.com/user-attachments/assets/4183275d-b150-498c-b4cc-6b5853762d01" width="150" height="100"></center>|
 |:---:|:---:|:---:|:---:|:---:|
+|**이동현**|**홍동휘**|**강재연**|**문형균**|**김경은**|
 |**Team Lead <br> CTO**|**Deputy Team Lead <br> UX Strategist**|**Data Engineer**|**Product Manager**|**Funnel Analyst**|
 
 ---------------------------------------
